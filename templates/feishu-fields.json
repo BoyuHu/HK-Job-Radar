@@ -1,0 +1,11 @@
+[
+  { "name": "岗位", "type": "text" },
+  { "name": "公司", "type": "text" },
+  { "name": "方向", "type": "single_select", "options": "从 profile.directions 同步" },
+  { "name": "状态", "type": "single_select", "options": ["待处理", "已投递", "面试中", "不合适", "过期"] },
+  { "name": "链接", "type": "text" },
+  { "name": "日期", "type": "date" },
+  { "name": "发布时间", "type": "date" },
+  { "name": "备注", "type": "text" },
+  { "name": "JD文案", "type": "text" }
+]
